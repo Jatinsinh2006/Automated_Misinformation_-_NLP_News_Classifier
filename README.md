@@ -101,14 +101,6 @@ streamlit run streamlit_app.py
 
 Models are compared on Accuracy, Precision, Recall, and F1-Score. The best-performing model (by F1-score) is automatically selected and saved for deployment. See `reports/classification_report.txt` and `reports/model_accuracy.png` after training.
 
-## 📄 Resume Description
-
-**Fake News Detection | Python, NLP, Scikit-learn, Streamlit**
-- Developed an end-to-end fake news detection system using Natural Language Processing (NLP) and TF-IDF vectorization to classify news articles as Fake or Real.
-- Performed data cleaning, text preprocessing, feature extraction, and trained multiple machine learning models including Logistic Regression, Naive Bayes, and Support Vector Machine (SVM).
-- Evaluated model performance using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix, selecting the best-performing model for deployment.
-- Built an interactive Streamlit web application that allows users to classify custom news articles in real time.
-
 ## 📜 License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
