@@ -68,7 +68,7 @@ Dataset Collection → Data Cleaning → EDA → Text Preprocessing
 ### 1. Clone & install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Jatinsinh2006/Fake-News-Detection.git>
 cd Fake-News-Detection
 pip install -r requirements.txt
 ```
