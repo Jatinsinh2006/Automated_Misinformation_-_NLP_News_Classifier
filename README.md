@@ -1,4 +1,4 @@
-# 📰 Fake News Detection
+# 📰 Automated Misinformation & NLP News Classifier
 
 An end-to-end Machine Learning + NLP project that classifies news articles as **Fake** or **Real**, using the ISOT Fake News Dataset, TF-IDF vectorization, and classical ML models — deployed as an interactive Streamlit web app.
 
